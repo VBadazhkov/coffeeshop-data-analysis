@@ -1,0 +1,1 @@
+from scripts.domain import load_config
