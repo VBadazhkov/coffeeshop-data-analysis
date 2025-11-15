@@ -19,6 +19,7 @@ Python, PostgreSQL, streamlit, psycopg2, plotly
 ## Установка
 
 Демо-версия доступна в streamlit community cloud
+http://192.168.1.140:8501
 
 В дальнейшем возможно добавления способа установки через Docker.
 
