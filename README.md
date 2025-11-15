@@ -18,7 +18,7 @@ Python, PostgreSQL, streamlit, psycopg2, plotly
 
 ## Установка
 
-Демо-версия доступна в streamlit community cloud
+Демо-версия будет доступна в streamlit community cloud
 
 В дальнейшем возможно добавления способа установки через Docker.
 
